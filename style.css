@@ -30,3 +30,17 @@ main{
   background-size: cover;
   background-position: bottom;
   }
+
+  .box-image2{
+  height: 150px;
+  background-image: url(img/flow02.png);
+  background-size: cover;
+  background-position: bottom;
+  }
+
+  .box-image3{
+  height: 150px;
+  background-image: url(img/flow03.png);
+  background-size: cover;
+  background-position: bottom;
+  }
